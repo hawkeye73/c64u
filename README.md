@@ -16,19 +16,19 @@ This structure keeps your C64U environment clean, modular, and easy to navigate 
 Files to try out during computer‑club meetings — new demos, music, games, or experimental programs/settings.
 
 ### **01. SYSTEM**  
-Core system files required for platform operation: kernels, firmware, disk‑kernals, and related components.
+Core system files required for platform operation: kernels, firmware, disk‑kernals and related components.
 
 ### **02. GAMES**  
-Game files, including tape, disk, and cartridge formats.
+Game files, including tape, disk and cartridge formats.
 
 ### **03. DEMOS**  
-Demo software for testing, benchmarking, or scene‑related productions.
+Demo software for testing, benchmarking or scene‑related productions.
 
 ### **04. SOUND**  
-Audio‑related content such as music, intros, demos, and SID files.
+Audio‑related content such as music, intros, demos, SID files, etc.
 
 ### **05. VIDEO**  
-Video playback tools, codecs, and test videos.
+Video playback tools, codecs and test videos.
 
 ### **06. MODERN**  
 Modern applications, tools, and demos created after the year 2000.
