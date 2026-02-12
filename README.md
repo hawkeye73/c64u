@@ -13,7 +13,7 @@ This structure keeps your C64U environment clean, modular, and easy to navigate 
 ## 📁 Directory Overview
 
 ### **00. CLUB**  
-Files to try out during computer‑club meetings — new demos, music, games, or experimental programs/settings.
+Files to try out during computer‑club meetings — new demos, music, games or experimental programs/settings.
 
 ### **01. SYSTEM**  
 Core system files required for platform operation: kernels, firmware, disk‑kernals and related components.
