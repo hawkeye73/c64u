@@ -3,12 +3,9 @@
 A clean and organized directory structure for use on flash storage media with the **C64 Ultimate**.  
 Recommended : a 16 GB USB stick or MicroSD card.
 
-Internal:
+Internal: You can use a MicroSD or USB stick. (WARNING: Only top USB is available for usage!)
 
-You can use a MicroSD or USB stick. (WARNING: Only top USB is available for usage!)
-
-External:
-USB stick.
+External: USB stick.
 
 Each folder has a dedicated purpose to keep your system tidy, predictable, and easy to maintain.  
 This structure keeps your C64U environment clean, modular, and easy to navigate — ideal for development, testing, and everyday use.
