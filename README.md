@@ -1,5 +1,5 @@
 # C64U MEDIA (USB/SD CARD) LAYOUT  
-**Version 0.2 — 2026‑02‑12**  
+**Version 0.3 — 2026‑02‑15**  
 By -=[HAWKEYE]=-
 
 A clean and organized directory structure for internal use with the **C64 Ultimate**.  
@@ -38,6 +38,9 @@ General applications for the Commodore 64.
 
 ### **10. TRANSFER**  
 A temporary workspace for exchanging files between machines.
+
+### **20. THE VERY 2ND**
+Contents of the original TAPE DRIVE USB-stick 'THE VERY SECOND'.
 
 ### **90. CONFIGS**  
 Configuration files for system and application settings: presets, templates, and environment configs.
