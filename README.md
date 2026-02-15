@@ -1,4 +1,5 @@
-# C64U MEDIA (USB/SD CARD) LAYOUT by -=[HAWKEYE]=-
+# C64U MEDIA (USB/SD CARD) LAYOUT
+by -=[HAWKEYE]=-
 
 A clean and organized directory structure for use on flash storage media with the **C64 Ultimate**.  
 Recommended : a 16 GB USB stick or MicroSD card.
