@@ -2,7 +2,13 @@ C64U MEDIA (USB/SD CARD) LAYOUT
 Version 0.3 2026-02-15
 By -=[HAWKEYE]=-
 
-A clean and organized directory structure on flash storage media for C64 Ultimate (use an 16 GB USB stick or MicroSD card).
+A clean and organized directory structure for use on flash storage media with the C64 Ultimate.
+Recommended : a 16 GB USB stick or MicroSD card.
+
+Internal: You can use a MicroSD or USB stick. (WARNING: Only top USB is available for usage!)
+
+External: USB stick.
+
 Each folder has a dedicated purpose to keep your system tidy, predictable, and easy to maintain.
 
 This structure helps keep your C64U environment clean, modular, and easy to navigate — ideal for development, testing, and everyday use.
